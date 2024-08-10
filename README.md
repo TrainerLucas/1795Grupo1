@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 german pi
 =======
+thiago rojas
 
 Joaquin Martinez
 >>>>>>> e04a0b4920452226cad4733e87239e07f190e18e
