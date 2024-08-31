@@ -2155,3 +2155,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.08.31-00.07.47:843][887]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_20 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.PackageMetaData in its package
 [2024.08.31-00.07.47:844][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2024.08.31-00.07.47:867][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.31-00.08.53:421][467]LogViewport: Scene viewport resized to 907x902, mode Windowed.
+[2024.08.31-00.11.55:588][162]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2024.08.31-00.17.31:603][146]LogDerivedDataCache: C:/Users/Tunka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.229 and deleted 0 files with total size 0 MiB. Scanned 1840 files in 1832 folders with total size 431 MiB.
