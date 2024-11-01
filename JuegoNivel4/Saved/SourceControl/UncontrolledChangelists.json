@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
 				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2N/RI2GSYF6XDXS3E19XCBQOY.uasset",
 				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1K/MELMLXEU2R8N814LFN41MV.uasset",
@@ -64,6 +65,39 @@
 				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QR/2H64MSZ9DV5K4W9XDGX1SQ.uasset",
 				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
 				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/0G/IEFDPAOR37YC4MDBHRLC9D.uasset"
+=======
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/bonus_power_up7.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/FrontColor.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/PowerUp.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0L/B0XSR3KKVPNRLPBZ8BQLSW.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_DoubleJump.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/Jetpack.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/Dash.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4U/H14XQQF811ZSOINN6OCC57.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/XC/QSAXIB5TXZQ5SD1AE1LVCZ.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/9mm_low_poly_9mm_bullet.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/Arrow.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/body_metal.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/button.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/head_metal.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/Jetpack.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/7K/287XEGM5G8Z0UCR8GJ2RR7.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/standardSurface1.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/lambert2.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/Lightning.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/thiago/Lightning_F9AC118F.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_Shoot.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/49/VCUB2PA1YTN0NE590QOQL2.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/Elementos/3_levels_connected_by_spiral_staircase.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R3/74IO832H42X161AMMLOLGQ.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2D/BITYZ24XOR7RPQRV8C7GPD.uasset"
+>>>>>>> 51273dee035102f30b6a7eece628baab080e829e
 			]
 		}
 	]
