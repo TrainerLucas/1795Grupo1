@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0L/B0XSR3KKVPNRLPBZ8BQLSW.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/XC/QSAXIB5TXZQ5SD1AE1LVCZ.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4U/H14XQQF811ZSOINN6OCC57.uasset",
@@ -17,6 +18,9 @@
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/Dash.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/T5/O70F5VE0L5JLHSTERZBKKU.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/Jetpack.uasset"
+=======
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4U/H14XQQF811ZSOINN6OCC57.uasset"
+>>>>>>> 651fcbc07c960f596accd4b1059711bf5ed0ccc2
 			]
 		}
 	]
