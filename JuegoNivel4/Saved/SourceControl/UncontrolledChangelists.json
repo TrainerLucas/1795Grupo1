@@ -106,14 +106,27 @@
 >>>>>>> be329f3 (NO GUARDADOS)
 =======
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
-				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R3/74IO832H42X161AMMLOLGQ.uasset",
-				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2D/BITYZ24XOR7RPQRV8C7GPD.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/bonus_power_up7.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/FrontColor.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/PowerUp.uasset",
+<<<<<<< HEAD
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0L/B0XSR3KKVPNRLPBZ8BQLSW.uasset"
 >>>>>>> d959d9b (Cuadrao q gira con esfera de colision)
+=======
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0L/B0XSR3KKVPNRLPBZ8BQLSW.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_DoubleJump.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_Shoot.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/Elementos/3_levels_connected_by_spiral_staircase.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/49/VCUB2PA1YTN0NE590QOQL2.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/Jetpack.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/Dash.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4U/H14XQQF811ZSOINN6OCC57.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/XC/QSAXIB5TXZQ5SD1AE1LVCZ.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R3/74IO832H42X161AMMLOLGQ.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2D/BITYZ24XOR7RPQRV8C7GPD.uasset"
+>>>>>>> a66280f (añadir PUs y etc)
 			]
 		}
 	]
