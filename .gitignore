@@ -72,4 +72,21 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
 saved/*
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+saved/*
+=======
+saved/*
+>>>>>>> 00f6930 (cambio gitignore)
+=======
+saved/*
+=======
+
+saved/*
+>>>>>>> 623f5dc (agregue el ignorar carpeta save al gitgnore)
+>>>>>>> 1f4245d (resolucion de conflictos)
+>>>>>>> joaquin
