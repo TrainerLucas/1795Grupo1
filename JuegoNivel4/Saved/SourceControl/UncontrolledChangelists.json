@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
@@ -103,6 +104,16 @@
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/0G/IEFDPAOR37YC4MDBHRLC9D.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 >>>>>>> be329f3 (NO GUARDADOS)
+=======
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R3/74IO832H42X161AMMLOLGQ.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2D/BITYZ24XOR7RPQRV8C7GPD.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/bonus_power_up7.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/LevelPrototyping/Meshes/FrontColor.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/FirstPerson/Blueprints/PowerUp.uasset",
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0L/B0XSR3KKVPNRLPBZ8BQLSW.uasset"
+>>>>>>> d959d9b (Cuadrao q gira con esfera de colision)
 			]
 		}
 	]
