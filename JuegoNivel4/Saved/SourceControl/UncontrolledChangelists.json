@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
@@ -141,6 +142,49 @@
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R3/74IO832H42X161AMMLOLGQ.uasset",
 				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/2D/BITYZ24XOR7RPQRV8C7GPD.uasset"
 >>>>>>> a66280f (añadir PUs y etc)
+=======
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/R3/74IO832H42X161AMMLOLGQ.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2N/RI2GSYF6XDXS3E19XCBQOY.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/1K/MELMLXEU2R8N814LFN41MV.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/X9/ZIL9R07QZ8QI7QPBX3M08F.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/XH/U4JZRI2F2FK7UVK7C43ASY.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/NB/4U7FBTBEVR98BOXT0DUTFI.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/Elementos/3_levels_connected_by_spiral_staircase.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/OK/783DL3ITKXDW3A0KNUT4B6.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Box_33533E73.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/7E/0RVF0C67TLNA6XBXNC64IQ.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Cylinder_ADC91BE0.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U6/WGA4ZQ8NZWTIEXZUUUF502.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/FO/5726OL7K5YC0Y962KWHGC6.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Disc_6AE8AB8E.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/QR/2H64MSZ9DV5K4W9XDGX1SQ.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Stairs_B2D16398.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Torus_07D0FEBE.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Torus_C1AB8195.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NA/GG1G3V9LD7PMVG2RN76BQ3.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JD/PDD9HD32YPWOYR1UBM5BIF.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IO/QYJINOZHCHKACPM2Q9YLNH.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/M4/GGENJEMPC7CSFR0CN4GVL9.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/04/FX8X97LIXH0BSUXM9E3D5I.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/U4/KS84LRQ865E31RIN0C7UCG.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/BT/2E5S749WHHLRPKWG0BC56V.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OZ/66U6U182JSMSEGRDUYBYFP.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/JN/ETC60858TX55REB6GB2GJC.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SS/AP37S607136O7TYH980PYF.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Q8/31HTKGWFCXKINJ21BOBVW4.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/9X/1N39YOR2PBPXP1EEDYETIQ.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Extrude_B9CA0F8A.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Extrude_BD474142.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Extrude_DFDA054B.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Extrude_F1ED18A6.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/FirstPerson/Maps/_GENERATED/admin/Extrude_F8FBAB9D.uasset",
+				"D:/Proyectos Unreal/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/0G/IEFDPAOR37YC4MDBHRLC9D.uasset"
+>>>>>>> 3632ed8 (termine mapa principal (faltan agregados))
 			]
 		}
 	]
