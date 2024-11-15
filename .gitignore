@@ -72,5 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
 
 saved/*
+=======
+saved/*
+>>>>>>> 00f6930 (cambio gitignore)
