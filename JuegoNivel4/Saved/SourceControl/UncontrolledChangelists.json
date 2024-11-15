@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
@@ -98,6 +99,10 @@
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
 				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset"
+=======
+				"C:/Users/thiago/OneDrive/Documentos/Unreal Projects/CloudGame/JuegoNivel4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/0G/IEFDPAOR37YC4MDBHRLC9D.uasset",
+				"D:/Usuarios/Tunka/Documents/1795Grupo1/JuegoNivel4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+>>>>>>> be329f3 (NO GUARDADOS)
 			]
 		}
 	]
