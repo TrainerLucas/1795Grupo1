@@ -1192,3 +1192,13 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Set DoubleJump
 [2024.11.15-23.54.03:865][372]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
 [2024.11.15-23.54.03:865][372]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
 [2024.11.15-23.54.03:865][372]LogShaderCompilers: Display: ================================================
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: ================================================
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: Total job queries 115, among them cache hits 6 (5.22%)
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: Tracking 109 distinct input hashes that result in 91 distinct outputs (83.49%)
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: RAM used: 0.94 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.11.16-00.05.39:738][ 20]LogShaderCompilers: Display: ================================================
